@@ -1,1 +1,1 @@
-(https://cottonshop.github.io/balancing-cars/)
+https://cottonshop.github.io/balancing-cars/
